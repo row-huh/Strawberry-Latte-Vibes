@@ -4,8 +4,8 @@
         "editor.background": "#ecddcf",  
         "editor.foreground": "#3d301e",  
         "list.activeSelectionIconForeground": "#D2B48C" ,
-		"sideBar.background": "#9c8167", 
-        "sideBar.foreground": "#faf9f7", 
+		"sideBar.background": "#ecddcf", 
+        "sideBar.foreground": "#DE3163", 
         "sideBarSectionHeader.background": "#E8E0D9", 
         "sideBarSectionHeader.foreground": "#6B4E3D", 
         "sideBarTitle.foreground": "#4A3B31", 
@@ -17,7 +17,11 @@
         "list.focusBackground": "#D2B48C66",
 		"tab.activeBackground": "#ecddcf",
 		"tab.inactiveBackground" : "#d1996457",
-		"tab.hoverBackground" : "#ecddcf"
+		"tab.hoverBackground" : "#ecddcf",
+		// bottom panel colors
+		"panel.background": "#ecddcf",
+
+		"statusBar.background" :  "#DE3163"
     },
 
     "tokenColors": [
