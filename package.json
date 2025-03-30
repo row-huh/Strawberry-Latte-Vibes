@@ -1,6 +1,6 @@
 {
-  "name": "lattevibes",
-  "displayName": "latteVibes",
+  "name": "strawberrylattevibes",
+  "displayName": "strawberrylatteVibes",
   "description": "a cozy chill theme",
   "version": "0.0.1",
   "engines": {
@@ -12,9 +12,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "latteVibes",
+        "label": "strawberrylatteVibes",
         "uiTheme": "vs",
-        "path": "./themes/latteVibes-color-theme.json"
+        "path": "./themes/strawberrylatteVibes-color-theme.json"
       }
     ]
   }

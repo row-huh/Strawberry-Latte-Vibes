@@ -1,5 +1,5 @@
 {
-    "name": "latteVibes",
+    "name": "StrawberryLatteVibes",
     "colors": {
         "editor.background": "#ecddcf",  
         "editor.foreground": "#3d301e",  
@@ -21,7 +21,13 @@
 		// bottom panel colors
 		"panel.background": "#ecddcf",
 
-		"statusBar.background" :  "#DE3163"
+		"statusBar.background" :  "#DE3163",
+		"activityBar.background" : "#DE3163",
+		"activityBar.foreground" : "#ffffff",
+
+		// header colors
+		"editorGroupHeader.tabsBackground": "#ecddcf",
+		"titleBar.activeBackground": "#DE3163",
     },
 
     "tokenColors": [
