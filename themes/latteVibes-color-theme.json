@@ -16,7 +16,8 @@
         "list.activeSelectionForeground": "#4A3B31", 
         "list.focusBackground": "#D2B48C66",
 		"tab.activeBackground": "#ecddcf",
-		"tab.inactiveBackground" : "#d1996457"
+		"tab.inactiveBackground" : "#d1996457",
+		"tab.hoverBackground" : "#ecddcf"
     },
 
     "tokenColors": [
@@ -28,7 +29,7 @@
             ],
             "settings": {
                 "fontStyle": "italic",
-                "foreground": "#A0785A"  
+				"foreground" : "#00A7B3"  
             }
         },
         {
@@ -70,7 +71,7 @@
                 "storage"
             ],
             "settings": {
-                "foreground": "#6A5ACD" 
+                "foreground": "#DE3163" 
             }
         },
         {
@@ -80,7 +81,7 @@
                 "support.type"
             ],
             "settings": {
-                "foreground": "#800080" 
+                "foreground": "#8A00C4" 
             }
         },
         {
@@ -112,7 +113,7 @@
             ],
             "settings": {
                 "fontStyle": "bold",
-                "foreground": "#8B4513" 
+                "foreground": "#483D8B" 
             }
         },
         {
@@ -124,7 +125,7 @@
             ],
             "settings": {
                 "fontStyle": "bold",
-                "foreground": "#483D8B" 
+                "foreground": "#9E3A26" 
             }
         },
         {
@@ -156,7 +157,7 @@
                 "support.type.property-name"
             ],
             "settings": {
-                "foreground": "#CD853F" 
+                "foreground": "#E40078" 
             }
         },
         {
