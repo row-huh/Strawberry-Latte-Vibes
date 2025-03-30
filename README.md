@@ -6,7 +6,7 @@ A light theme for [Visual Studio Code](http://code.visualstudio.com/)
 
 
 ## Installation Instructions:
-* Press `Cmd+P` on macOS or `Ctrl+P` on Windows and Linux and enter the following command:
+Open VSCode and Press `Cmd+P` on macOS or `Ctrl+P` on Windows and Linux and enter the following command:
 
 `ext install rokage.strawberrylattevibes`
 
