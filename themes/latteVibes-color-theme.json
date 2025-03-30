@@ -1,11 +1,11 @@
 {
     "name": "latteVibes",
     "colors": {
-        "editor.background": "#FAF0E6",  
-        "editor.foreground": "#4A3B31",  
+        "editor.background": "#ecddcf",  
+        "editor.foreground": "#3d301e",  
         "list.activeSelectionIconForeground": "#D2B48C" ,
-		"sideBar.background": "#5A3E2D", 
-        "sideBar.foreground": "#d1d8ab", 
+		"sideBar.background": "#9c8167", 
+        "sideBar.foreground": "#faf9f7", 
         "sideBarSectionHeader.background": "#E8E0D9", 
         "sideBarSectionHeader.foreground": "#6B4E3D", 
         "sideBarTitle.foreground": "#4A3B31", 
@@ -14,7 +14,9 @@
         "list.inactiveSelectionForeground": "#4A3B31", 
         "list.activeSelectionBackground": "#D2B48C33", 
         "list.activeSelectionForeground": "#4A3B31", 
-        "list.focusBackground": "#D2B48C66" 
+        "list.focusBackground": "#D2B48C66",
+		"tab.activeBackground": "#ecddcf",
+		"tab.inactiveBackground" : "#d1996457"
     },
 
     "tokenColors": [
