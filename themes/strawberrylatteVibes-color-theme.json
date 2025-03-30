@@ -18,8 +18,10 @@
 		"tab.activeBackground": "#ecddcf",
 		"tab.inactiveBackground" : "#d1996457",
 		"tab.hoverBackground" : "#ecddcf",
+        "tab.activeBorder": "#483D8B",
 		// bottom panel colors
 		"panel.background": "#ecddcf",
+        "panel.border" : "#483D8B",
 
 		"statusBar.background" :  "#DE3163",
 		"activityBar.background" : "#DE3163",
@@ -28,6 +30,7 @@
 		// header colors
 		"editorGroupHeader.tabsBackground": "#ecddcf",
 		"titleBar.activeBackground": "#DE3163",
+        "titleBar.border": "#483D8B"
     },
 
     "tokenColors": [
